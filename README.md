@@ -43,7 +43,7 @@ Este projeto consiste na criação de um **dashboard interativo** para análise 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/analise-desempenho-escolar.git
+   git clone https://github.com/flaviordzmota/AnaliseEducacional.git
 2. Instale as dependências:
     pip install -r requirements.txt
 3. Execute o aplicativo:
